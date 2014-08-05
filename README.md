@@ -9,7 +9,7 @@ It is not very well written but does the job well. I only released it, because o
 Example
 -------
 
-1. Specifu your Workout
+1. Specify your Workout
 
 ```
 $ cat lower.workout
