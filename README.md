@@ -12,7 +12,7 @@ Example
 1. Specify your Workout
 
 ```
-$ cat lower.workout
+$ cat upper.workout
 ```
 ```ruby
 { :year      => 2014,
